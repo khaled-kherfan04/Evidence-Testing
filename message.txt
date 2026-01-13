@@ -1,0 +1,68 @@
+```
+[
+  {
+    "canonical_key": "software_engineering_major",
+    "data": {
+      "aliases": [
+        "ما هو تخصص هندسة البرمجيات",
+        "تخصص هندسة البرمجيات",
+        "دراسة هندسة البرمجيات",
+        "برنامج هندسة البرمجيات",
+        "تخصص الهندسة الناعمة",
+        "هندسة السوفت وير",
+        "هندسة البرمجات",
+        "handaset albarmajeyat",
+        "takhasso's softwer",
+        "هندسة البرمجيّات",
+        "هندسه البرمجيات",
+        "Software Engineering Program",
+        "Software Engineering Major",
+        "Software Engineering Degree",
+        "Soft Eng",
+        "SW Eng",
+        "SE Major",
+        "Software Enginnering",
+        "Softwre Engineering",
+        "SE",
+        "SW"
+      ],
+      "summary": "يعتبر تخصص هندسة البرمجيات من التخصصات الحيوية التي تركز على تصميم وتطوير وصيانة البرامج بفعالية وكفاءة. يهدف هذا التخصص إلى تخريج مهندسي برمجيات يمتلكون معرفة عميقة في أساليب وتقنيات البرمجة الحديثة، بالإضافة إلى مهارات تحليل وتصميم الأنظمة عالية الجودة. يعتبر هذا التخصص مثاليًا لأولئك الذين يحبون التكنولوجيا ويرغبون في إنشاء برمجيات تؤثر بشكل إيجابي على مختلف مجالات الحياة.",
+      "title": "تخصص هندسة البرمجيات",
+      "topic": "software_engineering_major",
+      "url": "https://www.just.edu.jo/FacultiesandDepartments/it/Departments/SE/Pages/Software%20Engineering.aspx"
+    }
+  },
+  {
+    "canonical_key": "software_engineering_fees",
+    "data": {
+      "aliases": [
+        "ما هي رسوم هندسة البرمجيات ؟؟",
+        "رسوم تخصص هندسة البرمجيات",
+        "كم رسوم هندسة البرمجيات؟",
+        "ما هي تكلفة دراسة البرمجيات؟",
+        "أديش رسوم هندسة البرمجيات؟",
+        "بكم رسوم دراسة هندسة البرمجيات بجامعة التكنولوجيا؟",
+        "شقد رسوم برمجيات بالأردنية؟",
+        "rosi software eng.",
+        "kam roe's hom?",
+        "رسوم هندس البرمجيات",
+        "رسوم هندسة البرمجه",
+        "Software Engineering Fees",
+        "Cost of Software Engineering",
+        "Software Engineering Tuition",
+        "SoftEng fees at JUST",
+        "SE tuition cost",
+        "SWE fees info",
+        "Sooftwar Einering Fees",
+        "Software Engneering Feas",
+        "SEF JUST",
+        "JUST SWE"
+      ],
+      "summary": "تعد دراسة هندسة البرمجيات في جامعة العلوم والتكنولوجيا الأردنية خيارًا ممتازًا للطلاب الذين يهتمون بتطوير البرمجيات وتحليلها وتصميمها. تقدم الجامعة برنامجًا متميزًا في هذا المجال يشمل أحدث التقنيات والأدوات المستخدمة في الصناعة. لمعرفة الرسوم الدراسية بالتفصيل، يُنصح بزيارة الموقع الرسمي للجامعة أو الاتصال بمكتب القبول والتسجيل للحصول على المعلومات المحدثة والدقيقة.",
+      "title": "رسوم هندسة البرمجيات في جامعة العلوم والتكنولوجيا الأردنية",
+      "topic": "software_engineering_fees",
+      "url": "https://www.just.edu.jo/FacultiesandDepartments/it/Departments/SE/Pages/Software%20Engineering.aspx"
+    }
+  }
+]
+```
